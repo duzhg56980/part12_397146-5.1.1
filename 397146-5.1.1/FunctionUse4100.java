@@ -1,0 +1,6 @@
+import cn.hutool.core.util.CharUtil;
+public class FunctionUse4100 {
+public void funcUse() {
+CharUtil charutil = new CharUtil();
+}
+}

@@ -1,0 +1,6 @@
+import cn.hutool.crypto.asymmetric.AsymmetricCrypto;
+public class FunctionUse5302 {
+public void funcUse() {
+AsymmetricCrypto asymmetriccrypto = new AsymmetricCrypto();
+}
+}
